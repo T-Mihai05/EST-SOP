@@ -1,5 +1,5 @@
 # EST-SOP
-Arduino and Python scripts for data collection and processing
+Arduino and Matlab scripts for data collection and processing
 
 ## UltrasonicMeasureDist.ino
 An Arduino sketch used to measure the water level in the tank using an ultrasonic sensor. It prints the measured distance to the Serial Monitor in real time. This is used to determine the tank height and initial water level for calibration purposes.
